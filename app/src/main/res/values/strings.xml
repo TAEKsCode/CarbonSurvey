@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Carbon Survey</string>
+    <string name="login">Login</string>
+    <string name="enter_your_login_here">Enter your login here</string>
+    <string name="vote">Vote!</string>
+    <string name="how_will_you_rate_this_app">How will you rate this app?</string>
+    <string name="remove_all_userdata">Remove all userdata</string>
 </resources>
